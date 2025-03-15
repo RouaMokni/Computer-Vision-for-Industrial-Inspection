@@ -1,2 +1,2 @@
 # Computer-Vision-for-Industrial-Inspection
-Computer Vision for Industrial Inspection Nvidia
+NVIDIA Deep Learning Institute– Computer Vision for Industrial Inspection Nvidia
